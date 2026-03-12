@@ -169,11 +169,11 @@ const STORAGE_KEY = 'ecolink_trees';
 const initialData = [
     {
         id: '1',
-        name: 'Banyan Tree',
+        name: 'Neem Tree',
         biologicalName: 'Ficus benghalensis',
-        speciesCount: 5,
-        description: 'The national tree of India, known for its massive canopy and aerial roots. It provides excellent shade and supports varying ecosystems.',
-        image: 'https://images.unsplash.com/photo-1598453005898-3165b6a38069?q=80&w=1470&auto=format&fit=crop'
+        speciesCount: 149,
+        description: 'The neem tree usually grows 15–20 meters tall, though some trees can reach up to 30 meters. It has a wide spreading crown with dense, dark-green leaves. The leaves are compound and serrated, giving the tree a feathery appearance. Neem produces small white fragrant flowers, and its fruits are smooth olive-like drupes that turn yellow when ripe.',
+        image: 'https://unsplash.com/photos/leaves-and-flowers-bloom-on-a-tree-branch-rWWoelgz3So'
     },
     {
         id: '2',
